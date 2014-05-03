@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Calculadora</title>
 </head>
 <body>
 	<form action="calcular" method="post">
@@ -18,9 +18,9 @@
 		</div>
 		
 		<div>
-		   Resultado:${resultado}
+		  <label>Resultado:</label> ${resultado}
 		</div>
 		<input type="submit" value="Sumar" />
-	</form>u
+	</form>
 </body>
 </html>

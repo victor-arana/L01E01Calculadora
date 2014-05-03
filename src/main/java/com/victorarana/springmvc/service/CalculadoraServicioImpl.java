@@ -1,5 +1,8 @@
 package com.victorarana.springmvc.service;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class CalculadoraServicioImpl implements CalculadoraServicio {
 
 	@Override
